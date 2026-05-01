@@ -1,0 +1,8 @@
+{
+  "jira": {"baseUrl": "https://your-jira-instance", "token": "replace-me"},
+  "aiProviders": {
+    "chatgpt": {"baseUrl": "https://api.openai.com/v1", "apiKey": "replace-me"},
+    "gemini": {"baseUrl": "https://generativelanguage.googleapis.com", "apiKey": "replace-me"}
+  },
+  "publish": {"zephyrBaseUrl": "https://your-zephyr-api"}
+}
